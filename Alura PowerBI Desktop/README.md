@@ -1,0 +1,1 @@
+Projeto criado durante o curso da Alura [Power BI Desktop - Primeiro Dashboard](https://cursos.alura.com.br/course/power-bi-desktop-primeiro-dashboard)
