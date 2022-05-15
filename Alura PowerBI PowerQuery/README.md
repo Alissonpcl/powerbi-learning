@@ -1,0 +1,1 @@
+Projeto criado durante o curso da Alura [Power BI Desktop: tratamento de dados no Power Query](https://cursos.alura.com.br/course/power-bi-desktop-tratamento-dados-power-query)
